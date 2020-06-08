@@ -1,2 +1,2 @@
-# CAB320-Assignment2
-Machine Learning CAB 320 Group Project
+# CAB420-Assignment2
+Machine Learning CAB 420 Group Project
